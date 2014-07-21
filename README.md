@@ -1,4 +1,4 @@
-# http-range-parse
+# http-range-parse [![Build Status](https://travis-ci.org/purposeindustries/node-http-range-parse.svg)](https://travis-ci.org/purposeindustries/node-http-range-parse)
 
 Parse HTTP Range headers, RFC7233 compilant.
 
