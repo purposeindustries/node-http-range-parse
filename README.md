@@ -4,7 +4,7 @@ Parse HTTP Range headers, RFC7233 compilant.
 
 ## Install
 
-Install the [package](http://npmjs.org/packages/http-range-parse) with [npm](http://npmjs.org)
+Install the [package](http://npmjs.org/package/http-range-parse) with [npm](http://npmjs.org)
 
 ```sh
 $ npm install http-range-parse
