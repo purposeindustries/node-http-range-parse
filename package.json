@@ -1,0 +1,33 @@
+{
+  "name": "http-range-parse",
+  "version": "1.0.0",
+  "description": "Parse HTTP Range header, based on RFC7233",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-bg": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/purposeindustries/node-http-range-parse"
+  },
+  "keywords": [
+    "http",
+    "range",
+    "parse"
+  ],
+  "author": "Purpose Industries <dev@purposeindustries.co>",
+  "contributors": [{
+    "name": "Bence Dányi",
+    "email": "bd@purposeindustries.co"
+  }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-http-range-parse/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-http-range-parse",
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "should": "^4.0.4"
+  }
+}
